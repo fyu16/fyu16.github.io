@@ -4,11 +4,7 @@ Fangxin (Amy) Yu - a random college girl who loves to dance
 ## Past Projects
 
 ### Autism Center 
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+![IMG_6404 2](https://user-images.githubusercontent.com/62489624/78191745-a4d14e00-7444-11ea-9047-db54ab869eab.JPG)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
